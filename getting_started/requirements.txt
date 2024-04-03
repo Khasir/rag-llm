@@ -1,0 +1,7 @@
+chromadb
+beautifulsoup4
+tqdm
+fireworks-ai
+python-dotenv
+pandas
+sentence-transformers
