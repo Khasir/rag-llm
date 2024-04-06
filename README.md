@@ -1,2 +1,2 @@
-# sophia
-Intelligent search for Google Drive
+# RAG LLM Experimentation
+Trying out RAG and LLMs.
